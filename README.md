@@ -1,5 +1,7 @@
 # Parcel template
 
+[Reference to the parcel-project-template repository](https://github.com/goitacademy/parcel-project-template/tree/main) made by GoIT.
+
 This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).
 
 ## Preparing a new project
